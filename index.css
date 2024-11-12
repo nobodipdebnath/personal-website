@@ -1,0 +1,26 @@
+.bebas-neue {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+.roboto{
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+.btn-1{
+    background: linear-gradient(0.00deg, rgb(255, 128, 99) -28.333%,rgb(244, 96, 96) 95.833%);
+}
+.back-1{
+    margin-top: 100px;
+}
+.section-1{
+    background: rgb(229, 229, 229);
+}
+.background{
+    background-image: url('images/background.png');
+    background-position: center;
+    background-size: cover;
+    padding: 88px 74px;
+    border-radius: 30px;
+}
